@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Certs:</h3>
-[![Badge: Red Team Operator](https://api.eu.badgr.io/public/assertions/p5pFRJ94TDaTixY-0eMmdA/image)](https://eu.badgr.com/public/assertions/p5pFRJ94TDaTixY-0eMmdA)
+![Badge: Red Team Operator](https://api.eu.badgr.io/public/assertions/p5pFRJ94TDaTixY-0eMmdA/image)
 
 
 <h3 align="left">Support:</h3>
