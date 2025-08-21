@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Certs:</h3>
-![Badge: Red Team Operator](https://api.eu.badgr.io/public/assertions/p5pFRJ94TDaTixY-0eMmdA/image)
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://eu.badgr.com/public/assertions/p5pFRJ94TDaTixY-0eMmdA"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/p5pFRJ94TDaTixY-0eMmdA/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Red Team Operator</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>21/08/2025</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Feu.badgr.com%2Fpublic%2Fassertions%2Fp5pFRJ94TDaTixY-0eMmdA" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;" aria-label="Verify (opens in new window)">VERIFY</a></p><script async="async" src="https://eu.badgr.com/assets/widgets.bundle.js"></script></blockquote>
 
 
 <h3 align="left">Support:</h3>
