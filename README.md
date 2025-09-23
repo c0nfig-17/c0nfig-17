@@ -21,8 +21,7 @@
   <a href="https://linkedin.com/in/antoniodseri47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoniodseri47" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support me on Ko-fi:</h3>
 <p align="left">
 <a href="https://ko-fi.com/c0nfig17"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="c0nfig17" /></a></p><br><br>
-<a href='https://ko-fi.com/A0A41BO608' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
