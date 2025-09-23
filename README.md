@@ -25,3 +25,10 @@
 <p align="left">
 <a href="https://ko-fi.com/c0nfig17"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="c0nfig17" /></a></p><br><br>
 </p>
+
+
+<p align="left">
+  <a href="https://ko-fi.com/c0nfig17">
+    <img src="https://github.com/c0nfig-17/c0nfig-17.github.io/blob/main/assets/img/ko-fi.jpg" alt="Red Team Operator" width="120" height="120"/>
+  </a>
+</p>
