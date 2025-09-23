@@ -29,6 +29,6 @@
 
 <p align="left">
   <a href="https://ko-fi.com/c0nfig17">
-    <img src="https://github.com/c0nfig-17/c0nfig-17.github.io/blob/main/assets/img/ko-fi.jpg" alt="Red Team Operator" width="120" height="120"/>
+    <img src="https://github.com/c0nfig-17/c0nfig-17.github.io/blob/main/assets/img/ko-fi.jpg"/>
   </a>
 </p>
