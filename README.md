@@ -25,4 +25,4 @@
 <p align="left">
 <a href="https://ko-fi.com/c0nfig17"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="c0nfig17" /></a></p><br><br>
 </p>
-
+<iframe id='kofiframe' src='https://ko-fi.com/c0nfig17/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='c0nfig17'></iframe>
