@@ -7,13 +7,12 @@
 - 💬 Ask me about **Cibersecurity**
 
 <h2 align="left">Certs:</h2>
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
   <a href="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/20274158" target="_blank">
     <img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/20274158" alt="CRTL" width="180" height="180" style="object-fit: contain;">
   </a>
   <a href="#" target="_blank">
-    <img src="https://maldevacademy.com/css/images/MDA.png" alt="MDA" width="200" height="200" style="object-fit: contain;">
+    <img src="https://maldevacademy.com/css/images/MDA.png" alt="MDA" width="200" height="auto" style="object-fit: contain;">
   </a>
   <a href="https://eu.badgr.com/public/assertions/p5pFRJ94TDaTixY-0eMmdA?identity__email=antonio.seri.97%40gmail.com" target="_blank">
     <img src="https://api.eu.badgr.io/public/assertions/p5pFRJ94TDaTixY-0eMmdA/image" alt="Red Team" width="180" height="180" style="object-fit: contain;">
