@@ -7,6 +7,7 @@
 - 💬 Ask me about **Cibersecurity**
 
 <h2 align="left">Certs:</h2>
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
   <a href="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/20274158" target="_blank">
     <img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/20274158" alt="CRTL" width="180" height="180" style="object-fit: contain;">
